@@ -14,5 +14,5 @@
 
 # Step:
 - Take picture and wait a moment  
-- It will be list the number which on the lincense plate  
+- It will list the number which on the lincense plate  
 ![](./doc/demo.jpg )
